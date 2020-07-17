@@ -66,7 +66,7 @@
     "karma-safari-launcher": "^0.1.1",
     "karma-sauce-launcher": "^0.2.10",
     "karma-sinon": "^1.0.4",
-    "lodash.template": "^2.4.1",
+    "lodash.template": "^4.5.0",
     "moment": "^2.8.4",
     "nock": "^0.51.0",
     "vinyl-transform": "^1.0.0"
